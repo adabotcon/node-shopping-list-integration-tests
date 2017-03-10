@@ -63,4 +63,4 @@
         res.should.have.status(204);
       });
   });
-});
+};

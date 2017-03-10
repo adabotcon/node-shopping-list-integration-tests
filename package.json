@@ -32,5 +32,8 @@
     "chai-http": "^3.0.0",
     "mocha": "^3.1.2"
   },
-  "author": ""
+  "author": "",
+  "directories": {
+    "test": "test"
+  }
 }
